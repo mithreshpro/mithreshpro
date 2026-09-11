@@ -18,5 +18,3 @@ Software Engineer
 
 ### LeetCode STATS
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mithreshpro?theme=light&font=Bellefair)
-
-<a href="https://iconscout.com/lottie-animations/coding" class="text-underline font-size-sm" target="_blank">Coding</a> by <a href="https://iconscout.com/contributors/graphiqa" class="text-underline font-size-sm" target="_blank">Graphiqa Studio</a>
