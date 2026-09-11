@@ -14,7 +14,9 @@ Software Engineer
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img width="50" height="50" src="https://img.icons8.com/color/48/flutter.png" alt="flutter"/><img width="50" height="50" src="https://img.icons8.com/color/48/dart.png" alt="dart"/>
 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img width="50" height="50" src="https://img.icons8.com/color/48/android-studio--v2.png" alt="android-studio--v2"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img width="50" height="50" src="https://img.icons8.com/color/48/android-studio--v2.png" alt="android-studio--v2"/><img width="48" height="48" src="https://img.icons8.com/color/48/netlify.png" alt="netlify"/>
 
 ### LeetCode STATS
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mithreshpro?theme=light&font=Bellefair)
+
+<a href="https://iconscout.com/lottie-animations/coding" class="text-underline font-size-sm" target="_blank">Coding</a> by <a href="https://iconscout.com/contributors/graphiqa" class="text-underline font-size-sm" target="_blank">Graphiqa Studio</a>
